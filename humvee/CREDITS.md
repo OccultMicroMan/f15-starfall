@@ -1,12 +1,21 @@
 # Humvee sound credits
 
-Recorded sounds, all released under Creative Commons 0 (public domain) on freesound.org.
-Cut, looped and levelled for the chip by gen_real.py. Everything else in sounds/ is synthesized.
+Recordings from freesound.org, cut, looped and levelled by gen_real.py / gen_v3.py / grainloop.py.
+CC0 = public domain; CC-BY = credit required (given here). blower.ogg, road.ogg, grind.ogg and the
+older eng_*.ogg are synthesized.
 
-- **eng_r700.ogg, eng_r1000.ogg (the M1114 itself)** - Humvee - Truck Driving Inside Convoy Assault Ops (P1U5o3hkt1o) by qubodup - [https://freesound.org/people/qubodup/sounds/160357/](https://freesound.org/people/qubodup/sounds/160357/) - CC0
-- **eng_r1445.ogg** - truck large diesel or military tank APC armored personnel carrier accelerate big rev and pull away then other distant engine rev and another one close pass by Saravena, Colombia 2016.flac by kyles - [https://freesound.org/people/kyles/sounds/405086/](https://freesound.org/people/kyles/sounds/405086/) - CC0
+- **v8_idle.ogg** - Hot-Rod-AngryV8-supercharged-1500HP-Burnout-Demo-xDR023.wav by Ears68 - [https://freesound.org/people/Ears68/sounds/144456/](https://freesound.org/people/Ears68/sounds/144456/) - CC-BY 3.0
+- **v8_1340.ogg** - Race Car Jalopy Muscle Car Dragster Hot Rod Supercharger Big Block Engine Burnout High Performance Automobile Sports Car Vehicle Engine by fudgealtoid - [https://freesound.org/people/fudgealtoid/sounds/750729/](https://freesound.org/people/fudgealtoid/sounds/750729/) - CC-BY 4.0
+- **v8_2600.ogg, v8_5800.ogg (slices of real revs)** - mustang 8.wav by VacekH - [https://freesound.org/people/VacekH/sounds/205509/](https://freesound.org/people/VacekH/sounds/205509/) - CC0
+- mustang 9.wav by VacekH - [https://freesound.org/people/VacekH/sounds/205511/](https://freesound.org/people/VacekH/sounds/205511/) - CC0
+- Open header V8 cars idling and revving by holderall - [https://freesound.org/people/holderall/sounds/432508/](https://freesound.org/people/holderall/sounds/432508/) - CC0
+- G13.2-04-Hot Rod Revs.wav by craigsmith - [https://freesound.org/people/craigsmith/sounds/438062/](https://freesound.org/people/craigsmith/sounds/438062/) - CC0
+- **m2_loop.ogg, m2_tail.ogg, m2_far_*.ogg** - 50 Cal MG by qubodup - [https://freesound.org/people/qubodup/sounds/239138/](https://freesound.org/people/qubodup/sounds/239138/) - CC0
 - **starter.ogg** - FORD LTL 9000_engine start and idle.wav by YellowJacketStudios - [https://freesound.org/people/YellowJacketStudios/sounds/435656/](https://freesound.org/people/YellowJacketStudios/sounds/435656/) - CC0
 - **horn.ogg** - Car_horn_long.wav by deleted_user_2104797 - [https://freesound.org/people/deleted_user_2104797/sounds/164627/](https://freesound.org/people/deleted_user_2104797/sounds/164627/) - CC0
+- **door_open.ogg** - opening_Car_door.wav by rnl - [https://freesound.org/people/rnl/sounds/335102/](https://freesound.org/people/rnl/sounds/335102/) - CC0
+- **door_close.ogg** - car door close.wav by monotraum - [https://freesound.org/people/monotraum/sounds/208695/](https://freesound.org/people/monotraum/sounds/208695/) - CC0
 - **door.ogg** - Truck door closed. by SubwaySandwitch420 - [https://freesound.org/people/SubwaySandwitch420/sounds/538947/](https://freesound.org/people/SubwaySandwitch420/sounds/538947/) - CC0
+- **hood_close.ogg** - car hood close by soundman9826 - [https://freesound.org/people/soundman9826/sounds/410134/](https://freesound.org/people/soundman9826/sounds/410134/) - CC0
+- **trunk_open.ogg, trunk_close.ogg** - Car Trunk by jackthemurray - [https://freesound.org/people/jackthemurray/sounds/433591/](https://freesound.org/people/jackthemurray/sounds/433591/) - CC0
 - **shift.ogg** - MrM_ElantraGearShfit.wav by mrmccormack - [https://freesound.org/people/mrmccormack/sounds/116598/](https://freesound.org/people/mrmccormack/sounds/116598/) - CC0
-- **m2_near.ogg, m2_far.ogg** - R12-04-Browning Machine Gun.wav by craigsmith - [https://freesound.org/people/craigsmith/sounds/486042/](https://freesound.org/people/craigsmith/sounds/486042/) - CC0
