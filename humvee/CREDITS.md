@@ -11,6 +11,12 @@ v7 engine and M2 (all CC0; engine loops pitch-locked to one rpm by flatten.py, M
 - **v8b_mid / v8c_mid.ogg** (3708 rpm), **v8b_high / v8c_high.ogg** (4790 rpm) - DynomometerPulls-1700HP-DR0000_0073-cutNamplified.mp3 by Ears68 - [https://freesound.org/people/Ears68/sounds/213665/](https://freesound.org/people/Ears68/sounds/213665/) - CC0
 - **m2_shot.ogg, m2_shot_b.ogg** - 50 Caliber MG.flac by qubodup - [https://freesound.org/people/qubodup/sounds/183656/](https://freesound.org/people/qubodup/sounds/183656/) - CC0
 
+M2 rounds (v17, one per shot, round-robin):
+
+- **m2c_a.ogg** - 50 CAL Machine Gun.wav by klangfabrik - [https://freesound.org/people/klangfabrik/sounds/249146/](https://freesound.org/people/klangfabrik/sounds/249146/) - CC0
+- **m2c_b.ogg** - 50BMG.wav by Threetails - [https://freesound.org/people/Threetails/sounds/82459/](https://freesound.org/people/Threetails/sounds/82459/) - CC-BY 3.0
+- **m2c_c.ogg** - crack from 50 Caliber MG.flac by qubodup (183656, CC0) layered on R12-04-Browning Machine Gun.wav by craigsmith - [https://freesound.org/people/craigsmith/sounds/486042/](https://freesound.org/people/craigsmith/sounds/486042/) - CC0
+
 Earlier sounds (v8_* and m2_loop are no longer used by the chip):
 
 - **v8_idle.ogg** - Hot-Rod-AngryV8-supercharged-1500HP-Burnout-Demo-xDR023.wav by Ears68 - [https://freesound.org/people/Ears68/sounds/144456/](https://freesound.org/people/Ears68/sounds/144456/) - CC-BY 3.0
