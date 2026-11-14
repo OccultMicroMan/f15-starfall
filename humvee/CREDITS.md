@@ -6,9 +6,9 @@ older eng_*.ogg are synthesized.
 
 v7 engine and M2 (all CC0; engine loops pitch-locked to one rpm by flatten.py, M2 = single rounds by m2shot.py):
 
-- **v8b_idle.ogg** (899 rpm) - DR0000_0011DynoRunUp1250HPChevV8engine.mp3 by Ears68 - [https://freesound.org/people/Ears68/sounds/177185/](https://freesound.org/people/Ears68/sounds/177185/) - CC0
-- **v8b_low.ogg** (2251 rpm) - Muscle car sounds.mp3 by Superhollyward - [https://freesound.org/people/Superhollyward/sounds/332636/](https://freesound.org/people/Superhollyward/sounds/332636/) - CC0
-- **v8b_mid.ogg** (3708 rpm), **v8b_high.ogg** (4790 rpm) - DynomometerPulls-1700HP-DR0000_0073-cutNamplified.mp3 by Ears68 - [https://freesound.org/people/Ears68/sounds/213665/](https://freesound.org/people/Ears68/sounds/213665/) - CC0
+- **v8b_idle.ogg / v8c_idle.ogg** (899 rpm; v8c = louder cut) - DR0000_0011DynoRunUp1250HPChevV8engine.mp3 by Ears68 - [https://freesound.org/people/Ears68/sounds/177185/](https://freesound.org/people/Ears68/sounds/177185/) - CC0
+- **v8b_low.ogg / v8c_low.ogg** (2251 rpm) - Muscle car sounds.mp3 by Superhollyward - [https://freesound.org/people/Superhollyward/sounds/332636/](https://freesound.org/people/Superhollyward/sounds/332636/) - CC0
+- **v8b_mid / v8c_mid.ogg** (3708 rpm), **v8b_high / v8c_high.ogg** (4790 rpm) - DynomometerPulls-1700HP-DR0000_0073-cutNamplified.mp3 by Ears68 - [https://freesound.org/people/Ears68/sounds/213665/](https://freesound.org/people/Ears68/sounds/213665/) - CC0
 - **m2_shot.ogg, m2_shot_b.ogg** - 50 Caliber MG.flac by qubodup - [https://freesound.org/people/qubodup/sounds/183656/](https://freesound.org/people/qubodup/sounds/183656/) - CC0
 
 Earlier sounds (v8_* and m2_loop are no longer used by the chip):
