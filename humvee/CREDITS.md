@@ -34,3 +34,6 @@ Earlier sounds (v8_* and m2_loop are no longer used by the chip):
 - **hood_close.ogg** - car hood close by soundman9826 - [https://freesound.org/people/soundman9826/sounds/410134/](https://freesound.org/people/soundman9826/sounds/410134/) - CC0
 - **trunk_open.ogg, trunk_close.ogg** - Car Trunk by jackthemurray - [https://freesound.org/people/jackthemurray/sounds/433591/](https://freesound.org/people/jackthemurray/sounds/433591/) - CC0
 - **shift.ogg** - MrM_ElantraGearShfit.wav by mrmccormack - [https://freesound.org/people/mrmccormack/sounds/116598/](https://freesound.org/people/mrmccormack/sounds/116598/) - CC0
+
+## M2 rounds (m2r_a/b/c, m2r_tail)
+Cut and layered from the RCSM sound pack (reworked close .50 cal M2 shots + close bass layer), supplied by the chip owner.
