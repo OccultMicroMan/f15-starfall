@@ -37,3 +37,6 @@ Earlier sounds (v8_* and m2_loop are no longer used by the chip):
 
 ## M2 rounds (m2r_a/b/c, m2r_tail)
 Cut and layered from the RCSM sound pack (reworked close .50 cal M2 shots + close bass layer), supplied by the chip owner.
+
+## Engine loops (eng_s_idle/cruise/high/max)
+Sherman M4A3 Ford GAA V8 loops from the RCSM sound pack (VEH_Tank_Sherman_Idle_02, m4a3_cruise, m4a3_high_rpm, m4a3_max), made seamless and level-matched; supplied by the chip owner.
