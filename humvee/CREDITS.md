@@ -28,6 +28,7 @@ Earlier sounds (v8_* and m2_loop are no longer used by the chip):
 - **m2_loop.ogg, m2_tail.ogg, m2_far_*.ogg** - 50 Cal MG by qubodup - [https://freesound.org/people/qubodup/sounds/239138/](https://freesound.org/people/qubodup/sounds/239138/) - CC0
 - **starter.ogg** - FORD LTL 9000_engine start and idle.wav by YellowJacketStudios - [https://freesound.org/people/YellowJacketStudios/sounds/435656/](https://freesound.org/people/YellowJacketStudios/sounds/435656/) - CC0
 - **horn.ogg** - Car_horn_long.wav by deleted_user_2104797 - [https://freesound.org/people/deleted_user_2104797/sounds/164627/](https://freesound.org/people/deleted_user_2104797/sounds/164627/) - CC0
+- **horn_dixie_real.mp3** - "Dixie Horn Sound" by Alexander, Orange Free Sounds - [https://orangefreesounds.com/dixie-horn-sound/](https://orangefreesounds.com/dixie-horn-sound/) - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (trimmed, converted to mono MP3)
 - **door_open.ogg** - opening_Car_door.wav by rnl - [https://freesound.org/people/rnl/sounds/335102/](https://freesound.org/people/rnl/sounds/335102/) - CC0
 - **door_close.ogg** - car door close.wav by monotraum - [https://freesound.org/people/monotraum/sounds/208695/](https://freesound.org/people/monotraum/sounds/208695/) - CC0
 - **door.ogg** - Truck door closed. by SubwaySandwitch420 - [https://freesound.org/people/SubwaySandwitch420/sounds/538947/](https://freesound.org/people/SubwaySandwitch420/sounds/538947/) - CC0
