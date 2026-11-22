@@ -8,6 +8,7 @@
   (flat-six; steady stretches locked at 708 / 2104 / 3560 rpm)
 - The loops are OGG (they repeat without a gap), levelled so they don't swell or fade, and the idle / low loops are
   joined from several stretches (tools/longloop.py) so they don't repeat a short pattern.
+- **part of gw_low** - "Porsche.MP3" by mmplisskin - https://freesound.org/people/mmplisskin/sounds/90404/ - CC0
 - **shift** - MrM_ElantraGearShfit.wav by mrmccormack - https://freesound.org/people/mrmccormack/sounds/116598/ - CC0
 - **grind, road** - synthesised (from the Humvee set)
 - **gw_horn** - synthesised twin disc horns (400 + 500 Hz)
